@@ -10,6 +10,7 @@ maximum = max(expenses)
 # Кортеж (минимум, максимум, сумма)
 result = (minimum, maximum, total)
 
+
 # Вывод
 print("Список трат:", expenses)
 print("Сумма:", total)
